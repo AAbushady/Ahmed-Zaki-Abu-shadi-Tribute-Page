@@ -8,6 +8,7 @@ body {
 ul {
     display: inline-block;
     text-align: justify;
+    background-image: linear-gradient(to bottom right, #141E30, #243b55);
 }
 
 li {
