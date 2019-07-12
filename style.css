@@ -109,7 +109,7 @@ footer {
 
     @media (min-width: 1200px) {
         body {
-            font-size: 32;
+            font-size: 32px;
         }
 
         #img-div {
